@@ -22,7 +22,7 @@ Process:
 - User selects item to remove via id.
 - user cart updated.
 - total updated.
-  (user can digit 'q' to quit, returns to main menu)
+ (user can digit 'q' to quit, returns to main menu)
  (if entry does not match with any id number, returns error message, asks again for option selection)
 
 ## Total.
